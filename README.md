@@ -41,3 +41,4 @@ Using 4 of each elemental spirit's rod, you can craft a Ring. This is used for t
 
 # Meta
 You can contact me by joining the Visceral Void [discord server!](https://discord.gg/qN5sshCsVz)
+## THIS MOD IS ONLY FOR FABRIC 1.21.1
